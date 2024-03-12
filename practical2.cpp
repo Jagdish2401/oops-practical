@@ -49,7 +49,7 @@ int main()
                     //dost exist
                 }
             }
-            cout<<"PRESS ENTEAR Y TO GET ANOTEHER EMPLOOY INFO:";
+               cout<<"PRESS ENTEAR 'Y' TO GET ANOTEHER EMPLOOY INFO AND EXIT ENTEAR 'N':";
             cin>>x;
         }while(x =='y');
 
